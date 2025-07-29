@@ -1,5 +1,7 @@
 # UOC - Laboratori de Python i R
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/https%3A%2F%2Fgitlab.com%2FUOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA1)
+
 Aquest repositori conté materials educatius per al **Laboratori de Python i R** de la UOC (Universitat Oberta de Catalunya). El laboratori està estructurat com una col·lecció de notebooks de Jupyter organitzats per activitats que ensenyen progressivament conceptes de ciència de dades amb Python.
 
 ## Estructura del Repositori
