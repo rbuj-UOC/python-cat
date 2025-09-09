@@ -1,7 +1,5 @@
 # UOC - Laboratori de Python i R
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA1%2Finstalacio-programari-python.ipynb)
-
 Aquest repositori conté materials educatius per al **Laboratori de Python i R** de la UOC (Universitat Oberta de Catalunya). El laboratori està estructurat com una col·lecció de notebooks de Jupyter organitzats per activitats que ensenyen progressivament conceptes de ciència de dades amb Python.
 
 ## Estructura del Repositori
@@ -17,6 +15,21 @@ Python/
 ├── A7/  # Avaluació de models
 └── A8/  # Exemple complet de flux de treball
 ```
+
+## Accés directe amb Binder
+
+Per executar cada activitat directament al navegador, utilitza la taula següent:
+
+| Activitat                        | Enllaç Binder |
+|----------------------------------|:-------------:|
+| **A1 - Instal·lació de programari**    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA1%2Finstalacio-programari-python.ipynb) |
+| **A2 - Lectura de fitxers**        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA2%2Flectura-fitxers-dades.ipynb) |
+| **A3 - Manipulació de dades**      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA3%2Fmanipulacio-dades.ipynb) |
+| **A4 - Neteja de dades**           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA4%2Fneteja-dades.ipynb) |
+| **A5 - Estadística descriptiva**   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA5%2Festadistica-descriptiva.ipynb) |
+| **A6 - Visualització de dades**    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA6%2Fvisualitzacio-dades.ipynb) |
+| **A7 - Avaluació de model**        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA7%2Favaluacio-model.ipynb) |
+| **A8 - Exemple complet**           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA8%2Fexemple-complet.ipynb) |
 
 ## Configuració de l'Entorn Virtual
 
