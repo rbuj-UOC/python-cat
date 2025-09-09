@@ -1,6 +1,6 @@
 # UOC - Laboratori de Python i R
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/https%3A%2F%2Fgitlab.com%2FUOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA1)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/UOC%2Feimt%2Fdatascience%2FLAB%2Fpython-cat/HEAD?urlpath=%2Fdoc%2Ftree%2FPython%2FA1%2Finstalacio-programari-python.ipynb)
 
 Aquest repositori conté materials educatius per al **Laboratori de Python i R** de la UOC (Universitat Oberta de Catalunya). El laboratori està estructurat com una col·lecció de notebooks de Jupyter organitzats per activitats que ensenyen progressivament conceptes de ciència de dades amb Python.
 
@@ -120,6 +120,10 @@ El curs utilitza les següents llibreries clau:
 
 ## Començar
 
+### Opció 1: Binder (Recomanat per a proves ràpides)
+La manera més ràpida de començar és utilitzant Binder. Feu clic al botó Binder de dalt per executar tots els notebooks al núvol sense necessitat d'instal·lació local.
+
+### Opció 2: Entorn local
 1. **Configureu l'entorn** seguint una de les opcions anteriors
 2. **Navegueu fins a la carpeta Python:**
    ```bash
