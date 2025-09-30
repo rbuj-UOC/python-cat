@@ -4,7 +4,7 @@
 
 ## Descripció
 
-Aquesta activitat ensenya les tècniques de visualització de dades utilitzant matplotlib, seaborn i altres llibreries per crear gràfics informatius i atractius.
+Aquesta activitat ensenya les tècniques de visualització de dades utilitzant matplotlib, seaborn i altres biblioteques per crear gràfics informatius i atractius.
 
 ## Contingut
 
