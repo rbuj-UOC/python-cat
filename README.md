@@ -147,6 +147,16 @@ La manera més ràpida de començar és utilitzant Binder. Feu clic al botó Bin
    jupyter lab "A1/instalacio-programari-python.ipynb"
    ```
 
+### Opció 3: Entorn local amb contenidor Docker
+#### Prerequisits
+- Instal·lar Docker Desktop https://docs.docker.com/get-started/get-docker/
+
+1. Iniciem el contenidor
+   ```bash
+   docker-compose up
+   ```
+2. Obrim l'enllaç http://localhost:8888/lab
+
 ## Estructura de les Activitats
 
 Cada carpeta d'activitat conté:

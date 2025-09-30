@@ -1,0 +1,19 @@
+services:
+  notebook:
+    build: .
+    image: uoc-dmlab
+    container_name: uoc-dmlab
+    volumes:
+      - ./Python:/app/work/Python
+    command: sh -c "conda run -n uoc-dmlab \
+      jupyter lab \
+        --ip=* \
+        --port 8888 \
+        --no-browser \
+        --allow-root \
+        --notebook-dir=/app/work \
+        --preferred-dir=/app/work \
+        --NotebookApp.token=''"
+    ports:
+      - 8888:8888
+    restart: always
